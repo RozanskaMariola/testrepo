@@ -1,1 +1,4 @@
 Pierwszy wpis
+Drugi wpis
+third line
+nowe zmiany
